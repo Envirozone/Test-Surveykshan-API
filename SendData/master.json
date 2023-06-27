@@ -1,0 +1,1666 @@
+[
+    {
+     "Sno": 1,
+     "industryName": "G.V. (God Vishnu) Rice Unit",
+     "integrationDate": "01\/01\/2022",
+     "lastRenewalDate": "01\/01\/2023",
+     "userID": "God_Vishnu",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/TSS\/pH\/FLOW"
+    },
+    {
+     "Sno": 2,
+     "industryName": "Dazzle Texo Fab",
+     "integrationDate": "01\/04\/2022",
+     "lastRenewalDate": "01\/04\/2023",
+     "userID": "Dazzle_Texo",
+     "station": "Stack_1_Boiler_2TPH",
+     "parameters": "PM\/SO2\/Nox"
+    },
+    {
+     "Sno": 3,
+     "industryName": "Dazzle Texo Fab",
+     "integrationDate": "01\/04\/2022",
+     "lastRenewalDate": "01\/04\/2023",
+     "userID": "Dazzle_Texo",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 4,
+     "industryName": "K S Overseas Pvt Ltd (Kashmiri Lal Sat Pal)",
+     "integrationDate": "01\/05\/2022",
+     "lastRenewalDate": "01\/05\/2023",
+     "userID": "KS_Overseas",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/TSS\/pH\/FLOW"
+    },
+    {
+     "Sno": 5,
+     "industryName": "Goodrich Foodtech Limited",
+     "integrationDate": "01\/06\/2022",
+     "lastRenewalDate": "01\/06\/2023",
+     "userID": "Goodrich_Foodtech",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/TSS\/pH\/FLOW"
+    },
+    {
+     "Sno": 6,
+     "industryName": "Rao Tula Ram Memorial Hospital",
+     "integrationDate": "01\/10\/2022",
+     "lastRenewalDate": "01\/10\/2023",
+     "userID": "Rao_Tula",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/TSS\/pH"
+    },
+    {
+     "Sno": 7,
+     "industryName": "Bag Poly Textiles and Furnishings",
+     "integrationDate": "01\/11\/2022",
+     "lastRenewalDate": "01\/11\/2023",
+     "userID": "Bag_Poly",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 8,
+     "industryName": "Sigma Corporation India Ltd",
+     "integrationDate": "01\/18\/2022",
+     "lastRenewalDate": "01\/18\/2023",
+     "userID": "Sigma_Corp",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 9,
+     "industryName": "Winter Hugs Textiles Pvt Ltd",
+     "integrationDate": "01\/20\/2022",
+     "lastRenewalDate": "01\/20\/2023",
+     "userID": "Winter_Hug",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 10,
+     "industryName": "Sachdeva Home Furnishing Pvt Ltd",
+     "integrationDate": "01\/20\/2022",
+     "lastRenewalDate": "01\/20\/2023",
+     "userID": "Sachdeva_Home",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 11,
+     "industryName": "True Texofab Private Limited",
+     "integrationDate": "01\/28\/2022",
+     "lastRenewalDate": "01\/28\/2023",
+     "userID": "True_Texo",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/TSS\/pH\/FLOW"
+    },
+    {
+     "Sno": 12,
+     "industryName": "True Texofab Private Limited",
+     "integrationDate": "01\/28\/2022",
+     "lastRenewalDate": "01\/28\/2023",
+     "userID": "True_Texo",
+     "station": "Stack_1_Boiler_4TPH",
+     "parameters": "SO2\/Nox\/PM"
+    },
+    {
+     "Sno": 13,
+     "industryName": "Gagan Resources Pvt Ltd",
+     "integrationDate": "01\/13\/2023",
+     "lastRenewalDate": "01\/13\/2023",
+     "userID": "Gagan_Res",
+     "station": "Stack_1",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 14,
+     "industryName": "Agrima Infra Engineering Pvt Ltd",
+     "integrationDate": "01\/19\/2023",
+     "lastRenewalDate": "01\/19\/2023",
+     "userID": "Agrima _Infra",
+     "station": "Ambient_1",
+     "parameters": "PM10"
+    },
+    {
+     "Sno": 15,
+     "industryName": "Creo Sales India Pvt. Ltd.",
+     "integrationDate": "12\/21\/2022",
+     "lastRenewalDate": "12\/21\/2022",
+     "userID": "Creo_Sales",
+     "station": "Ambient",
+     "parameters": "PM2.5"
+    },
+    {
+     "Sno": 16,
+     "industryName": "Creo Sales India Pvt. Ltd.",
+     "integrationDate": "12\/21\/2022",
+     "lastRenewalDate": "12\/21\/2022",
+     "userID": "Creo_Sales",
+     "station": "Ambient_1",
+     "parameters": "PM10"
+    },
+    {
+     "Sno": 17,
+     "industryName": "Sewage Treatment Plant, Nagar Palika Laxmangarh, Sikar_1.5MLD",
+     "integrationDate": "01\/21\/2023",
+     "lastRenewalDate": "01\/20\/2023",
+     "userID": "Sewage_Treat",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 18,
+     "industryName": "Title Products Pvt. Ltd.",
+     "integrationDate": "01\/23\/2023",
+     "lastRenewalDate": "01\/22\/2023",
+     "userID": "Title_Prod",
+     "station": "Stack_1_Boiler_3TPH",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 19,
+     "industryName": "Lokhith Healthcare Pvt. Ltd.",
+     "integrationDate": "01\/23\/2023",
+     "lastRenewalDate": "01\/24\/2023",
+     "userID": "Lokhith_Health",
+     "station": "Flow_RO Plant",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 20,
+     "industryName": "Lokhith Healthcare Pvt. Ltd.",
+     "integrationDate": "01\/23\/2023",
+     "lastRenewalDate": "01\/24\/2023",
+     "userID": "Lokhith_Health",
+     "station": "Stack_1_Boiler_1TPH",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 21,
+     "industryName": "Leather Embossing",
+     "integrationDate": "01\/25\/2023",
+     "lastRenewalDate": "01\/25\/2023",
+     "userID": "Leather_Emb",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 22,
+     "industryName": "Sewage Treatment Plant, Nagar Palika Laxmangarh, Sikar_1MLD",
+     "integrationDate": "01\/25\/2023",
+     "lastRenewalDate": "01\/25\/2023",
+     "userID": "Sewage_1MLD",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 23,
+     "industryName": "Srinagar Smartcity Ram Munshi Bagh",
+     "integrationDate": "01\/27\/2023",
+     "lastRenewalDate": "01\/27\/2023",
+     "userID": "Srinagar_Ram",
+     "parameters": "NO\/COLOR\/PO3−\/NH3\/NO3\/COD\/BOD\/TOC\/TSS\/PO3−\/Turbidity\/pH\/DO_O\/FCL\/primary_temperature\/TDS\/EC"
+    },
+    {
+     "Sno": 24,
+     "industryName": "Ghaziabad Organics Ltd",
+     "integrationDate": "01\/27\/2023",
+     "lastRenewalDate": "01\/27\/2023",
+     "userID": "Gzd_Organics",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 25,
+     "industryName": "ABC lmpex Pvt. Ltd",
+     "integrationDate": "02\/01\/2021",
+     "lastRenewalDate": "02\/01\/2023",
+     "userID": "Abc_Impex",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 26,
+     "industryName": "NSJ Mazel Industries LLP",
+     "integrationDate": "02\/01\/2022",
+     "lastRenewalDate": "02\/01\/2023",
+     "userID": "NSJ_Mazel",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 27,
+     "industryName": "D Paradise Tex",
+     "integrationDate": "02\/02\/2022",
+     "lastRenewalDate": "02\/02\/2023",
+     "userID": "D_Paradise",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 28,
+     "industryName": "Titan Zip Fastner Industries Pvt. Ltd",
+     "integrationDate": "02\/05\/2022",
+     "lastRenewalDate": "02\/05\/2023",
+     "userID": "Titan_Zip",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 29,
+     "industryName": "Parul Foods Specialities Pvt Limited",
+     "integrationDate": "02\/07\/2022",
+     "lastRenewalDate": "02\/07\/2023",
+     "userID": "Parul_Foods",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 30,
+     "industryName": "EE Public Health Engineering Division_6.5MLD STP_Mohindergarh ",
+     "integrationDate": "02\/08\/2022",
+     "lastRenewalDate": "02\/08\/2023",
+     "userID": "EE Public_Health",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 31,
+     "industryName": "PT. Madan Mohan Malaviya Hospital",
+     "integrationDate": "02\/08\/2022",
+     "lastRenewalDate": "02\/08\/2023",
+     "userID": "PT_Madan",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/TSS\/pH"
+    },
+    {
+     "Sno": 32,
+     "industryName": "Sigma Moulds & Stampings Pvt Ltd",
+     "integrationDate": "02\/13\/2022",
+     "lastRenewalDate": "02\/13\/2023",
+     "userID": "Sigma_Admin",
+     "station": "ETP_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 33,
+     "industryName": "RMZ Infotech Pvt. Ltd.",
+     "integrationDate": "02\/14\/2022",
+     "lastRenewalDate": "02\/14\/2023",
+     "userID": "RMZ_Infotech",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/TSS\/pH"
+    },
+    {
+     "Sno": 34,
+     "industryName": "Parv Tex India",
+     "integrationDate": "02\/21\/2022",
+     "lastRenewalDate": "02\/21\/2023",
+     "userID": "Parv_Tex",
+     "station": "Stack_1_Boiler_4TPH",
+     "parameters": "SO2\/Nox\/PM"
+    },
+    {
+     "Sno": 35,
+     "industryName": "Super Speciality Hospital Janakpuri",
+     "integrationDate": "02\/22\/2022",
+     "lastRenewalDate": "02\/22\/2023",
+     "userID": "Super_Speciality",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/TSS\/pH"
+    },
+    {
+     "Sno": 36,
+     "industryName": "Vardhman Chemtech Ltd(Unit 2)",
+     "integrationDate": "02\/24\/2021",
+     "lastRenewalDate": "02\/24\/2023",
+     "userID": "Vardhman_Chem",
+     "station": "ETP_1_Inlet",
+     "parameters": "Flow_inlet"
+    },
+    {
+     "Sno": 37,
+     "industryName": "Vardhman Chemtech Ltd(Unit 2)",
+     "integrationDate": "02\/24\/2021",
+     "lastRenewalDate": "02\/24\/2023",
+     "userID": "Vardhman_Chem",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 38,
+     "industryName": "Shiva Knitwears",
+     "integrationDate": "02\/24\/2022",
+     "lastRenewalDate": "02\/24\/2023",
+     "userID": "Shiva_Knitwears",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 39,
+     "industryName": "S.S. International (T5A, Industrial Area, Panipat)",
+     "integrationDate": "02\/25\/2022",
+     "lastRenewalDate": "02\/25\/2023",
+     "userID": "S.S_INTERNATIONAL",
+     "station": "Stack_1_Boiler_3TPH",
+     "parameters": "SO2\/Nox\/PM"
+    },
+    {
+     "Sno": 40,
+     "industryName": "Knitcraft Apparels International Private Limited",
+     "integrationDate": "02\/27\/2019",
+     "lastRenewalDate": "02\/27\/2023",
+     "userID": "Knitcraft_Admin",
+     "station": "ETP_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 41,
+     "industryName": "Bharti Realty Ltd formally known as Niletech Ltd.",
+     "integrationDate": "02\/28\/2022",
+     "lastRenewalDate": "02\/28\/2023",
+     "userID": "Bharti_Realty",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW\/Total FT"
+    },
+    {
+     "Sno": 42,
+     "industryName": "Ankur Chemicals",
+     "integrationDate": "03\/03\/2021",
+     "lastRenewalDate": "03\/03\/2023",
+     "userID": "Ankur_Chem",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 43,
+     "industryName": "Modi Dairy",
+     "integrationDate": "\n2022-03-04",
+     "lastRenewalDate": "03\/04\/2023",
+     "userID": "Admin_ModiDairy",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 44,
+     "industryName": "Modi Dairy",
+     "integrationDate": "03\/04\/2022",
+     "lastRenewalDate": "03\/04\/2023",
+     "userID": "Admin_ModiDairy",
+     "station": "STACK_1",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 45,
+     "industryName": "Carlsberg India Private limited",
+     "integrationDate": "03\/09\/2022",
+     "lastRenewalDate": "03\/09\/2023",
+     "userID": "Carlsberg_India",
+     "station": "Stack_1_Boiler_6TPH",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 46,
+     "industryName": "STP Pehowa",
+     "integrationDate": "03\/15\/2021",
+     "lastRenewalDate": "03\/15\/2023",
+     "userID": "STP_Pehowa",
+     "station": "STP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 47,
+     "industryName": "APL Print Pack India",
+     "integrationDate": "03\/22\/2021",
+     "lastRenewalDate": "03\/15\/2023",
+     "userID": "APL_Print",
+     "station": "STACK_1_Boiler_8TPH",
+     "parameters": "SO2\/Nox\/PM"
+    },
+    {
+     "Sno": 48,
+     "industryName": "DAV Public School",
+     "integrationDate": "03\/19\/2022",
+     "lastRenewalDate": "03\/19\/2023",
+     "userID": "DAV_Public",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 49,
+     "industryName": "Jasmine Knitting Industries Pvt Ltd",
+     "integrationDate": "03\/23\/2022",
+     "lastRenewalDate": "03\/23\/2023",
+     "userID": "Jasmine_Knitting",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 50,
+     "industryName": "Fortis Flt Lt Rajan Dhall Hospital",
+     "integrationDate": "03\/25\/2022",
+     "lastRenewalDate": "03\/24\/2023",
+     "userID": "Fortis_Flt",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 51,
+     "industryName": "Natraj Home Furnishing Pvt Ltd",
+     "integrationDate": "03\/26\/2022",
+     "lastRenewalDate": "03\/26\/2023",
+     "userID": "Natraj_Home",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 52,
+     "industryName": "Natraj Home Furnishing Pvt Ltd.",
+     "integrationDate": "05\/15\/2023",
+     "lastRenewalDate": "05\/15\/2023",
+     "userID": "Natraj_Home",
+     "station": "ETP_1_Borewell",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 53,
+     "industryName": "Bhartiya Leather Udyog",
+     "integrationDate": "03\/02\/2022",
+     "lastRenewalDate": "03\/01\/2023",
+     "userID": "Nat_raj",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 54,
+     "industryName": "A.p. Organics Limited (unit-iv)",
+     "integrationDate": "03\/04\/2022",
+     "lastRenewalDate": "03\/03\/2023",
+     "userID": "AP_Organics",
+     "station": "Stack_1_Boiler_2TPH",
+     "parameters": "SO2\/Nox\/PM"
+    },
+    {
+     "Sno": 55,
+     "industryName": "Artelia Home Furnishings Pvt Ltd",
+     "integrationDate": "03\/04\/2022",
+     "lastRenewalDate": "03\/03\/2023",
+     "userID": "Artelia_Home",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 56,
+     "industryName": "A. K. Multimetals Pvt. Ltd.",
+     "integrationDate": "03\/04\/2022",
+     "lastRenewalDate": "03\/03\/2023",
+     "userID": "AK_Multi",
+     "station": "Stack_1_Furnace",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 57,
+     "industryName": "Balotra Water Pollution Control & Research Foundation Trust",
+     "integrationDate": "03\/18\/2023",
+     "lastRenewalDate": "03\/18\/2023",
+     "userID": "Balotra_Water",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 58,
+     "industryName": "Balotra Water Pollution Control & Research Foundation Trust",
+     "integrationDate": "03\/18\/2023",
+     "lastRenewalDate": "03\/18\/2023",
+     "userID": "Balotra_Water",
+     "station": "CETP_1_Outlet",
+     "parameters": "pH\/TSS\/BOD\/COD"
+    },
+    {
+     "Sno": 59,
+     "industryName": "Balotra Water Pollution Control & Research Foundation Trust",
+     "integrationDate": "03\/18\/2023",
+     "lastRenewalDate": "03\/18\/2023",
+     "userID": "Balotra_Water",
+     "station": "ETP_1_Inlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 60,
+     "industryName": "Balotra Water Pollution Control & Research Foundation Trust",
+     "integrationDate": "03\/18\/2023",
+     "lastRenewalDate": "03\/18\/2023",
+     "userID": "Balotra_Water",
+     "station": "ETP_2_Inlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 61,
+     "industryName": "Balotra Water Pollution Control & Research Foundation Trust",
+     "integrationDate": "03\/18\/2023",
+     "lastRenewalDate": "03\/18\/2023",
+     "userID": "Balotra_Water",
+     "station": "ETP_3_Inlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 62,
+     "industryName": "Sardhana Papers Pvt Ltd",
+     "integrationDate": "03\/22\/2023",
+     "lastRenewalDate": "03\/22\/2023",
+     "userID": "Sardhana_Papers",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 63,
+     "industryName": "T.c. Terrytex Ltd.",
+     "integrationDate": "03\/24\/2023",
+     "lastRenewalDate": "03\/24\/2023",
+     "userID": "TC_Terry",
+     "station": "Stack_1",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 64,
+     "industryName": "Bajaj Kagaj Limited",
+     "integrationDate": "03\/30\/2023",
+     "lastRenewalDate": "03\/30\/2023",
+     "userID": "Bajaj_Kagaj",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 65,
+     "industryName": "Sarwati Home Furnishings",
+     "integrationDate": "03\/30\/2023",
+     "lastRenewalDate": "03\/30\/2023",
+     "userID": "Sarwati_Home",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 66,
+     "industryName": "3 MLD STP Sewah (Executive Engineer PHED Division No. 2 Panipat)",
+     "integrationDate": "03\/31\/2023",
+     "lastRenewalDate": "03\/31\/2023",
+     "userID": "3_MLD",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 67,
+     "industryName": "Rahul Ion Tech Ltd",
+     "integrationDate": "03\/31\/2023",
+     "lastRenewalDate": "03\/31\/2023",
+     "userID": "Rahul_Ion",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 68,
+     "industryName": "Sarwati Home Furnishings",
+     "integrationDate": "03\/30\/2023",
+     "lastRenewalDate": "03\/30\/2023",
+     "userID": "Sarwati_Texo",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 69,
+     "industryName": "Rahul Ion Tech Ltd",
+     "integrationDate": "03\/31\/2023",
+     "lastRenewalDate": "03\/31\/2023",
+     "userID": "Rahul_Ion",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 70,
+     "industryName": "Suntril Pharmaceuticals Private Limited",
+     "integrationDate": "04\/02\/2021",
+     "lastRenewalDate": "04\/02\/2023",
+     "userID": "Suntril_Pharma",
+     "station": "ETP_1_Inlet",
+     "parameters": "Flow_inlet"
+    },
+    {
+     "Sno": 71,
+     "industryName": "Suntril Pharmaceuticals Private Limited",
+     "integrationDate": "04\/02\/2021",
+     "lastRenewalDate": "04\/02\/2023",
+     "userID": "Suntril_Pharma",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 72,
+     "industryName": "N.C. Joshi Memorial Hospital",
+     "integrationDate": "04\/27\/2021",
+     "lastRenewalDate": "04\/27\/2023",
+     "userID": "NC_JoshiHosp",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 73,
+     "industryName": "KS Enterprises",
+     "integrationDate": "04\/12\/2022",
+     "lastRenewalDate": "04\/12\/2023",
+     "userID": "KS_Enterprises",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW\/COD\/BOD\/TSS\/pH"
+    },
+    {
+     "Sno": 74,
+     "industryName": "Sigma Corporation India Ltd (Unit- II)",
+     "integrationDate": "04\/12\/2022",
+     "lastRenewalDate": "04\/11\/2023",
+     "userID": "Sigma_Manesar",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 75,
+     "industryName": "A & U Tibbia College & Hospital",
+     "integrationDate": "04\/18\/2022",
+     "lastRenewalDate": "04\/19\/2023",
+     "userID": "Tibbia_College",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 76,
+     "industryName": "Sewage Treatment Plant Ten MLD Second Unit",
+     "integrationDate": "04\/20\/2022",
+     "lastRenewalDate": "04\/20\/2022",
+     "userID": "STP_Yamunagar",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 77,
+     "industryName": "Jaishil Sulphur And Chemical Industries",
+     "integrationDate": "04\/25\/2022",
+     "lastRenewalDate": "04\/25\/2022",
+     "userID": "Jaishil_Sulphur",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 78,
+     "industryName": "Arora Hosiery",
+     "integrationDate": "04\/26\/2022",
+     "lastRenewalDate": "04\/26\/2022",
+     "userID": "Arora_Hosiery",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 79,
+     "industryName": "Kaiser Life",
+     "integrationDate": "04\/26\/2022",
+     "lastRenewalDate": "04\/26\/2022",
+     "userID": "Kaiser_Life",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 80,
+     "industryName": "Kaiser Life",
+     "integrationDate": "04\/26\/2022",
+     "lastRenewalDate": "04\/26\/2022",
+     "userID": "Kaiser_Life",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 81,
+     "industryName": "Allied Engineers",
+     "integrationDate": "04\/28\/2022",
+     "lastRenewalDate": "04\/28\/2022",
+     "userID": "Allied_Industries",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 82,
+     "industryName": "K.B Industries",
+     "integrationDate": "05\/05\/2022",
+     "lastRenewalDate": "05\/05\/2022",
+     "userID": "Kb_Industries",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 83,
+     "industryName": "Common Effluent Treatment Plant",
+     "integrationDate": "05\/09\/2022",
+     "lastRenewalDate": "05\/09\/2022",
+     "userID": "Common_effluent",
+     "station": "CETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 84,
+     "industryName": "Shree Bhageshwari Papers Pvt Ltd Unit 1",
+     "integrationDate": "03\/22\/2022",
+     "lastRenewalDate": "03\/22\/2023",
+     "userID": "Bhageshwari_Paper",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 85,
+     "industryName": "Siddheshwari Industries Pvt Ltd",
+     "integrationDate": "05\/15\/2022",
+     "lastRenewalDate": "05\/15\/2022",
+     "userID": "Siddheshwari_Indus",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 86,
+     "industryName": "Roshni Enterprises",
+     "integrationDate": "05\/11\/2022",
+     "lastRenewalDate": "05\/11\/2022",
+     "userID": "Roshni_Enter",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 87,
+     "industryName": "Grover Tex Prints Private Limited",
+     "integrationDate": "05\/13\/2022",
+     "lastRenewalDate": "05\/13\/2023",
+     "userID": "Grover_Tex",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 88,
+     "industryName": "GMT Industries",
+     "integrationDate": "05\/15\/2022",
+     "lastRenewalDate": "05\/16\/2023",
+     "userID": "Gmt_Industries",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 89,
+     "industryName": "Vardhman Prints",
+     "integrationDate": "05\/17\/2022",
+     "lastRenewalDate": "05\/17\/2022",
+     "userID": "Vardhman_Prints",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 90,
+     "industryName": "Deepak Spinners Limited",
+     "integrationDate": "05\/21\/2022",
+     "lastRenewalDate": "05\/20\/2022",
+     "userID": "Deepak_Spinners",
+     "station": "Stack_1_Boiler_15TPH",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 91,
+     "industryName": "Gas Droid Engineering LLP",
+     "integrationDate": "05\/25\/2022",
+     "lastRenewalDate": "05\/24\/2023",
+     "userID": "Gas_Droid",
+     "station": "Stack_1_Furnace",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 92,
+     "industryName": "VRV International",
+     "integrationDate": "05\/28\/2022",
+     "lastRenewalDate": "05\/27\/2023",
+     "userID": "Vrv_International",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 93,
+     "industryName": "Exquisite Enterprises Pvt. Ltd.",
+     "integrationDate": "12\/08\/2019",
+     "lastRenewalDate": "06\/09\/2023",
+     "userID": "Exqu_Admin",
+     "station": "ETP_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 94,
+     "industryName": "Carlsberg India Private limited",
+     "integrationDate": "05\/09\/2022",
+     "lastRenewalDate": "05\/09\/2023",
+     "userID": "Carlsberg_India",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 95,
+     "industryName": "Citi Thread (India) Pvt Ltd",
+     "integrationDate": "01\/11\/2022",
+     "lastRenewalDate": "06\/01\/2023",
+     "userID": "Citi_Thread",
+     "station": "ETP_1_Inlet",
+     "parameters": "FLOW_Inlet"
+    },
+    {
+     "Sno": 96,
+     "industryName": "Citi Thread (India) Pvt Ltd",
+     "integrationDate": "01\/11\/2022",
+     "lastRenewalDate": "06\/01\/2023",
+     "userID": "Citi_Thread",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 97,
+     "industryName": "Prime Steel Industries Private Limited",
+     "integrationDate": "06\/22\/2022",
+     "lastRenewalDate": "06\/22\/2022",
+     "userID": "Prime_Steel",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 98,
+     "industryName": "Prime Steel Industries Private Limited",
+     "integrationDate": "06\/22\/2022",
+     "lastRenewalDate": "06\/22\/2022",
+     "userID": "Prime_Steel",
+     "station": "Stack_2_Induction Furnace",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 99,
+     "industryName": "Prime Steel Industries Private Limited",
+     "integrationDate": "06\/22\/2022",
+     "lastRenewalDate": "06\/22\/2022",
+     "userID": "Prime_Steel",
+     "station": "Stack_1_Induction Furnace",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 100,
+     "industryName": "Morepen Laboratories Limited",
+     "integrationDate": "06\/30\/2022",
+     "lastRenewalDate": "06\/30\/2022",
+     "userID": "Morepen_Lab",
+     "station": "Stack_1_Boiler_6TPH",
+     "parameters": "SO2\/NoxPM"
+    },
+    {
+     "Sno": 101,
+     "industryName": "Vardhman Polytex Ltd",
+     "integrationDate": "06\/27\/2022",
+     "lastRenewalDate": "06\/27\/2022",
+     "userID": "Vardhman_Poly",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 102,
+     "industryName": "Shekhawati Heritage Herbal Pvt Ltd",
+     "integrationDate": "08\/01\/2019",
+     "lastRenewalDate": "08\/01\/2022",
+     "userID": "Shekhawati_Admin",
+     "station": "ETP_OUTLET_Recycleline",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 103,
+     "industryName": "Shekhawati Heritage Herbal Pvt Ltd",
+     "integrationDate": "08\/01\/2019",
+     "lastRenewalDate": "08\/01\/2022",
+     "userID": "Shekhawati_Admin",
+     "station": "STACK_1_1TPH_Bolier",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 104,
+     "industryName": "Omega International",
+     "integrationDate": "08\/10\/2020",
+     "lastRenewalDate": "08\/10\/2022",
+     "userID": "Omega_Inter",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 105,
+     "industryName": "Unitech Machines Limited",
+     "integrationDate": "08\/02\/2021",
+     "lastRenewalDate": "08\/02\/2022",
+     "userID": "Unitech_Mach",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 106,
+     "industryName": "Goodrich Carbohydrates Ltd",
+     "integrationDate": "08\/04\/2021",
+     "lastRenewalDate": "08\/04\/2022",
+     "userID": "Good_Rich",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 107,
+     "industryName": "C L Gupta Exports Ltd",
+     "integrationDate": "08\/16\/2021",
+     "lastRenewalDate": "08\/16\/2022",
+     "userID": "CL_Gupta",
+     "station": "ETP_1_Outlet",
+     "parameters": "TSS\/ BOD\/ pH \/COD"
+    },
+    {
+     "Sno": 108,
+     "industryName": "C L Gupta Exports Ltd",
+     "integrationDate": "08\/16\/2021",
+     "lastRenewalDate": "08\/16\/2022",
+     "userID": "CL_Gupta",
+     "station": "STP_1_Outlet",
+     "parameters": "pH\/TSS\/BOD\/COD"
+    },
+    {
+     "Sno": 109,
+     "industryName": "Bahubali Industries",
+     "integrationDate": "08\/19\/2021",
+     "lastRenewalDate": "08\/19\/2022",
+     "userID": "Bahubali Ind",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 110,
+     "industryName": "Bahubali Industries",
+     "integrationDate": "08\/19\/2021",
+     "lastRenewalDate": "08\/19\/2022",
+     "userID": "Bahubali Ind",
+     "station": "STACK_1_Boiler_2.5TPH",
+     "parameters": "SPM\/NOX\/SOX"
+    },
+    {
+     "Sno": 111,
+     "industryName": "Galaxy Overseas",
+     "integrationDate": "08\/23\/2021",
+     "lastRenewalDate": "08\/23\/2022",
+     "userID": "Galaxy_Overseas",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 112,
+     "industryName": "Indogulf Cropsciences Ltd.",
+     "integrationDate": "08\/27\/2021",
+     "lastRenewalDate": "08\/27\/2022",
+     "userID": "Indo_gulf",
+     "station": "Stack_ 2_Incinerator",
+     "parameters": "SPM_2\/SO2_2\/ NO_2\/O2_2\/CO2_2 \/CO_2"
+    },
+    {
+     "Sno": 113,
+     "industryName": "Indogulf Cropsciences Ltd.",
+     "integrationDate": "08\/27\/2021",
+     "lastRenewalDate": "08\/27\/2022",
+     "userID": "Indo_gulf",
+     "station": "Stack_1_Boiler",
+     "parameters": "NO\/SPM\/ CO\/SO2\/ CO2\/O2"
+    },
+    {
+     "Sno": 114,
+     "industryName": "Indogulf Cropsciences Ltd.",
+     "integrationDate": "08\/27\/2021",
+     "lastRenewalDate": "08\/27\/2022",
+     "userID": "Indo_gulf",
+     "station": "Stack_3_Scrubber",
+     "parameters": "NO_3\/SO2_3\/SPM_3 "
+    },
+    {
+     "Sno": 115,
+     "industryName": "Indogulf Cropsciences Ltd.",
+     "integrationDate": "08\/27\/2021",
+     "lastRenewalDate": "08\/27\/2022",
+     "userID": "Indo_gulf",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW\/COD\/TSS\/BOD\/PH "
+    },
+    {
+     "Sno": 116,
+     "industryName": "Epicu Agro Products Pvt Ltd",
+     "integrationDate": "08\/28\/2021",
+     "lastRenewalDate": "08\/28\/2022",
+     "userID": "Epicu_Agro",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 117,
+     "industryName": "Epic Food Products Pvt Ltd",
+     "integrationDate": "08\/31\/2021",
+     "lastRenewalDate": "08\/31\/2022",
+     "userID": "Epic_Food",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 118,
+     "industryName": "AL-Tabarak Frozen Foods Pvt Ltd (Meat Processing Unit)",
+     "integrationDate": "09\/09\/2021",
+     "lastRenewalDate": "09\/09\/2022",
+     "userID": "AL_Tabarak",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 119,
+     "industryName": "AL-Tabarak Frozen Foods Pvt Ltd (Meat Processing Unit)",
+     "integrationDate": "09\/09\/2021",
+     "lastRenewalDate": "09\/09\/2022",
+     "userID": "AL_Tabarak",
+     "station": "Stack_1_6TPH_Boiler",
+     "parameters": "SPM"
+    },
+    {
+     "Sno": 120,
+     "industryName": "Crown Colour Chem",
+     "integrationDate": "09\/21\/2021",
+     "lastRenewalDate": "09\/21\/2022",
+     "userID": "Crown_Chem",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 121,
+     "industryName": "9 MLD STP_Rampura",
+     "integrationDate": "09\/22\/2021",
+     "lastRenewalDate": "09\/22\/2022",
+     "userID": "STP_Rampura",
+     "station": "STP_1_Bypass",
+     "parameters": "Flow_Bypass"
+    },
+    {
+     "Sno": 122,
+     "industryName": "9 MLD STP_Rampura",
+     "integrationDate": "09\/22\/2021",
+     "lastRenewalDate": "09\/22\/2022",
+     "userID": "STP_Rampura",
+     "station": "STP_1_Inlet",
+     "parameters": "Flow_inlet"
+    },
+    {
+     "Sno": 123,
+     "industryName": "Chandhok Textile Enterprises (Pvt.) Ltd.",
+     "integrationDate": "09\/23\/2021",
+     "lastRenewalDate": "09\/23\/2022",
+     "userID": "Chand_Hok",
+     "station": "Stack_1_Boiler_8TPH",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 124,
+     "industryName": "Platinum Textile World",
+     "integrationDate": "09\/23\/2021",
+     "lastRenewalDate": "09\/23\/2022",
+     "userID": "Platinum_Tex",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 125,
+     "industryName": "Asia Home Furnishing",
+     "integrationDate": "09\/23\/2021",
+     "lastRenewalDate": "09\/23\/2022",
+     "userID": "Asia_Home",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 126,
+     "industryName": "Dwarika Home Furnishing",
+     "integrationDate": "09\/29\/2021",
+     "lastRenewalDate": "09\/29\/2022",
+     "userID": "Dwarika_Home",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 127,
+     "industryName": "Shree Shyam Polymers",
+     "integrationDate": "09\/29\/2021",
+     "lastRenewalDate": "09\/29\/2022",
+     "userID": "Shree_Shyam",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 128,
+     "industryName": "Jindal Woollen Industries Limited Unit 2",
+     "integrationDate": "09\/29\/2021",
+     "lastRenewalDate": "09\/29\/2022",
+     "userID": "Jindal_Unit2",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 129,
+     "industryName": "Precise Seamless Apparels Private Limited",
+     "integrationDate": "10\/01\/2018",
+     "lastRenewalDate": "10\/01\/2022",
+     "userID": "Prec_Admin",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 130,
+     "industryName": "Elegant Dyeing & Processing Unit",
+     "integrationDate": "10\/01\/2018",
+     "lastRenewalDate": "10\/01\/2022",
+     "userID": "Eleg_Admin",
+     "station": "ETP_OUTLET",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 131,
+     "industryName": "Wihelm Textiles India Pvt Ltd",
+     "integrationDate": "10\/01\/2018",
+     "lastRenewalDate": "10\/01\/2022",
+     "userID": "Wilh_Admin",
+     "station": "ETP_OUTLET",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 132,
+     "industryName": "Shivansh Textiles Private Limited",
+     "integrationDate": "10\/01\/2021",
+     "lastRenewalDate": "10\/01\/2022",
+     "userID": "Shivansh_Tex",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 133,
+     "industryName": "Bliss Impex",
+     "integrationDate": "10\/01\/2018",
+     "lastRenewalDate": "10\/01\/2022",
+     "userID": "Blis_Admin",
+     "station": "ETP_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 134,
+     "industryName": "Jindal Woollen Industries Ltd (Unit_3)",
+     "integrationDate": "10\/16\/2021",
+     "lastRenewalDate": "10\/16\/2022",
+     "userID": "Jindal_Unit3",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 135,
+     "industryName": "Kwality Threads Private Limited",
+     "integrationDate": "10\/21\/2021",
+     "lastRenewalDate": "10\/21\/2022",
+     "userID": "Kwality_Threads",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 136,
+     "industryName": "Silkon Threads Pvt Ltd",
+     "integrationDate": "10\/25\/2021",
+     "lastRenewalDate": "10\/25\/2022",
+     "userID": "Silkon_Threads",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 137,
+     "industryName": "Nirmal Trading Co.",
+     "integrationDate": "10\/26\/2021",
+     "lastRenewalDate": "10\/26\/2022",
+     "userID": "Nirmal_Co",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 138,
+     "industryName": "Global Wash Creation Pvt. Ltd.",
+     "integrationDate": "10\/26\/2021",
+     "lastRenewalDate": "10\/26\/2022",
+     "userID": "Global_Wash",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 139,
+     "industryName": "Vardhman Texo Fabs",
+     "integrationDate": "10\/26\/2021",
+     "lastRenewalDate": "10\/26\/2022",
+     "userID": "Vardhman_Texo",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 140,
+     "industryName": "Topline Home Appliances ",
+     "integrationDate": "10\/27\/2021",
+     "lastRenewalDate": "10\/27\/2022",
+     "userID": "Topline_Home",
+     "station": "ETP_1_Inlet",
+     "parameters": "Flow_inlet"
+    },
+    {
+     "Sno": 141,
+     "industryName": "Topline Home Appliances ",
+     "integrationDate": "10\/27\/2021",
+     "lastRenewalDate": "10\/27\/2022",
+     "userID": "Topline_Home",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 142,
+     "industryName": "Haryana Industries",
+     "integrationDate": "10\/29\/2021",
+     "lastRenewalDate": "10\/29\/2022",
+     "userID": "Haryana_Industries",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 143,
+     "industryName": "Allysa Home Furnishing",
+     "integrationDate": "10\/30\/2021",
+     "lastRenewalDate": "10\/30\/2022",
+     "userID": "Allysa_Home",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 144,
+     "industryName": "Gaurav Woollen Mills",
+     "integrationDate": "10\/30\/2021",
+     "lastRenewalDate": "10\/30\/2022",
+     "userID": "Gaurav_Woollen",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 145,
+     "industryName": "Shanti home Tex",
+     "integrationDate": "10\/30\/2021",
+     "lastRenewalDate": "10\/30\/2022",
+     "userID": "Shanti_Home",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 146,
+     "industryName": "Volga Metal Industries",
+     "integrationDate": "10\/31\/2021",
+     "lastRenewalDate": "10\/31\/2022",
+     "userID": "Volga_Metal",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 147,
+     "industryName": "RACL Geartech Limited",
+     "integrationDate": "10\/14\/2021",
+     "lastRenewalDate": "10\/13\/2022",
+     "userID": "Admin_RACL",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW\/COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 148,
+     "industryName": "Sai Nath Industries",
+     "integrationDate": "11\/02\/2021",
+     "lastRenewalDate": "11\/02\/2022",
+     "userID": "Sai_Nath",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 149,
+     "industryName": "M.D.J Texco Fab Pvt Ltd",
+     "integrationDate": "11\/08\/2021",
+     "lastRenewalDate": "11\/08\/2022",
+     "userID": "Mdj_Texco",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 150,
+     "industryName": "K.M International",
+     "integrationDate": "11\/11\/2021",
+     "lastRenewalDate": "11\/11\/2022",
+     "userID": "Km_International",
+     "station": "Stack_1_Boiler_14TPH",
+     "parameters": "SPM"
+    },
+    {
+     "Sno": 151,
+     "industryName": "K.M International",
+     "integrationDate": "11\/11\/2021",
+     "lastRenewalDate": "11\/11\/2022",
+     "userID": "Km_International",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 152,
+     "industryName": "M.J. Home Furnishing",
+     "integrationDate": "11\/12\/2021",
+     "lastRenewalDate": "11\/12\/2022",
+     "userID": "Mj_Home",
+     "station": "ETP_1_Outlet_Recycling",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 153,
+     "industryName": "Municipal Corporation Karnal_8MLD STP",
+     "integrationDate": "11\/17\/2021",
+     "lastRenewalDate": "11\/17\/2021",
+     "userID": "Phed",
+     "station": "STP_1_Inlet",
+     "parameters": "COD\/BOD\/TSS\/pH\/FLOW-Inlet"
+    },
+    {
+     "Sno": 154,
+     "industryName": "G.G International Pvt Ltd",
+     "integrationDate": "11\/18\/2021",
+     "lastRenewalDate": "11\/18\/2022",
+     "userID": "GG_Inter",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 155,
+     "industryName": "Wool India Knit Fab",
+     "integrationDate": "11\/18\/2021",
+     "lastRenewalDate": "11\/18\/2022",
+     "userID": "Wool_India",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 156,
+     "industryName": "Metro Cycle Industries",
+     "integrationDate": "11\/29\/2021",
+     "lastRenewalDate": "11\/28\/2022",
+     "userID": "Metro_Cycle",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 157,
+     "industryName": "Akash Home Furnishing Private Limited",
+     "integrationDate": "11\/30\/2020",
+     "lastRenewalDate": "11\/30\/2022",
+     "userID": "Akash_Home",
+     "station": "ETP_1_Outlet_ZLD",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 158,
+     "industryName": "Meridian Milieu Care Pvt Ltd",
+     "integrationDate": "11\/26\/2022",
+     "lastRenewalDate": "11\/26\/2022",
+     "userID": "Meridian_Milieu",
+     "station": "Stack_1_Incinerator",
+     "parameters": "CO\/CO2\/O2\/HCL\/Nox\/PM\/primary_temperature\/secondary_temperature"
+    },
+    {
+     "Sno": 159,
+     "industryName": "Shija Hospitals & Research Institute Pvt. Ltd",
+     "integrationDate": "11\/26\/2022",
+     "lastRenewalDate": "11\/26\/2022",
+     "userID": "Shija_Hospitals",
+     "station": "Stack_1_Incinerator",
+     "parameters": "CO\/CO2\/O2\/HCL\/Nox\/PM\/SO2\/primary_temperature\/secondary_temperature"
+    },
+    {
+     "Sno": 160,
+     "industryName": "Sarda Energy & Minerals Limited",
+     "integrationDate": "11\/28\/2022",
+     "lastRenewalDate": "11\/27\/2022",
+     "userID": "Sarda_Energy",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 161,
+     "industryName": "Moil Ltd. (Ferro Manganese Plant)",
+     "integrationDate": "11\/30\/2022",
+     "lastRenewalDate": "11\/29\/2022",
+     "userID": "Moil_Ltd",
+     "station": "Stack_1",
+     "parameters": "SO2\/Nox\/PM"
+    },
+    {
+     "Sno": 162,
+     "industryName": "Mahajan Overseas Pvt. Ltd",
+     "integrationDate": "12\/01\/2022",
+     "lastRenewalDate": "12\/01\/2022",
+     "userID": "Mahajan_Overseas",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 163,
+     "industryName": "G.B. Pant Hospital",
+     "integrationDate": "12\/06\/2021",
+     "lastRenewalDate": "12\/06\/2022",
+     "userID": "Gb_Pant",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 164,
+     "industryName": "Goodrich Cereals",
+     "integrationDate": "12\/08\/2021",
+     "lastRenewalDate": "12\/08\/2022",
+     "userID": "Good_Cereals",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 165,
+     "industryName": "Goodrich Cereals",
+     "integrationDate": "04\/15\/2023",
+     "lastRenewalDate": "04\/15\/2023",
+     "userID": "Good_Cereal",
+     "station": "Stack_1_Boiler_8TPH",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 166,
+     "industryName": "Maharishi Valmiki Hospital",
+     "integrationDate": "12\/08\/2021",
+     "lastRenewalDate": "12\/08\/2022",
+     "userID": "Goodrich Cereals.",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 167,
+     "industryName": "Rampal Scientific Dyers",
+     "integrationDate": "12\/08\/2020",
+     "lastRenewalDate": "12\/08\/2022",
+     "userID": "Rampal_Scientific",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 168,
+     "industryName": "Garg Acrylic Ltd",
+     "integrationDate": "12\/11\/2019",
+     "lastRenewalDate": "12\/11\/2022",
+     "userID": "Admin_Garg",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 169,
+     "industryName": "Sharman Woollens Mills Ltd",
+     "integrationDate": "12\/11\/2019",
+     "lastRenewalDate": "12\/11\/2022",
+     "userID": "Admin_Sharman",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 170,
+     "industryName": "Hare Krishna Industries",
+     "integrationDate": "12\/11\/2021",
+     "lastRenewalDate": "12\/11\/2022",
+     "userID": "Hare_Krishna",
+     "station": "ETP_1_Outlet_Recycling",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 171,
+     "industryName": "Northern Railway Central Hospital",
+     "integrationDate": "12\/13\/2021",
+     "lastRenewalDate": "12\/13\/2022",
+     "userID": "Northern_Hosp",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 172,
+     "industryName": "Maruti Dairy",
+     "integrationDate": "12\/20\/2021",
+     "lastRenewalDate": "12\/20\/2022",
+     "userID": "Maruti_Dairy",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 173,
+     "industryName": "Birmi Overseas Pvt Ltd",
+     "integrationDate": "12\/20\/2021",
+     "lastRenewalDate": "12\/20\/2022",
+     "userID": "Birmi_Overseas",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 174,
+     "industryName": "Larsen & Toubro Ltd. \"tower A, B, TC -II\" (Prima)",
+     "integrationDate": "12\/20\/2021",
+     "lastRenewalDate": "12\/20\/2022",
+     "userID": "Larsen",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 175,
+     "industryName": "Millennia Realtors Private Limited",
+     "integrationDate": "12\/20\/2021",
+     "lastRenewalDate": "12\/20\/2022",
+     "userID": "Millennia",
+     "station": "STP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 176,
+     "industryName": "Ramal Dyeing Company",
+     "integrationDate": "12\/20\/2021",
+     "lastRenewalDate": "12\/20\/2022",
+     "userID": "Rampal_Scientific",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 177,
+     "industryName": "Capital Dyeing",
+     "integrationDate": "12\/20\/2021",
+     "lastRenewalDate": "12\/20\/2022",
+     "userID": "Admin_Capital",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 178,
+     "industryName": "B.K Wools",
+     "integrationDate": "12\/20\/2021",
+     "lastRenewalDate": "12\/20\/2022",
+     "userID": "Admin_Bkwools",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 179,
+     "industryName": "Kansal Hosiery Exports",
+     "integrationDate": "12\/20\/2021",
+     "lastRenewalDate": "12\/20\/2022",
+     "userID": "Admin_Kansal",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 180,
+     "industryName": "Aadi Knit Fab",
+     "integrationDate": "12\/20\/2021",
+     "lastRenewalDate": "12\/20\/2022",
+     "userID": "Admin_Aadiknit",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS"
+    },
+    {
+     "Sno": 181,
+     "industryName": "A K Industries",
+     "integrationDate": "12\/24\/2021",
+     "lastRenewalDate": "12\/24\/2022",
+     "userID": "Ak_Industries",
+     "station": "ETP_1_Outlet",
+     "parameters": "COD\/BOD\/pH\/TSS\/FLOW"
+    },
+    {
+     "Sno": 182,
+     "industryName": "Keshav Exports",
+     "integrationDate": "12\/24\/2021",
+     "lastRenewalDate": "12\/24\/2022",
+     "userID": "Keshav_Exports",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 183,
+     "industryName": "M D International",
+     "integrationDate": "12\/24\/2021",
+     "lastRenewalDate": "12\/24\/2022",
+     "userID": "Md_International",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    },
+    {
+     "Sno": 184,
+     "industryName": "Mahesh Wood Products Pvt. Ltd.",
+     "integrationDate": "12\/31\/2021",
+     "lastRenewalDate": "12\/31\/2022",
+     "userID": "Mahesh_Wood",
+     "station": "Stack_1_Boiler_12TPH",
+     "parameters": "PM"
+    },
+    {
+     "Sno": 185,
+     "industryName": "Rakesh Anodizers",
+     "integrationDate": "12\/05\/2022",
+     "lastRenewalDate": "12\/05\/2022",
+     "userID": "Rakesh_Anod",
+     "station": "ETP_1_Outlet",
+     "parameters": "FLOW"
+    }
+   ]

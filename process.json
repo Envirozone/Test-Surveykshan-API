@@ -1,0 +1,64 @@
+{
+  "apps": [
+    {
+      "name": "server",
+      "script": "./server.js",
+      "watch": true
+    },
+    {
+      "name": "toPunjab",
+      "script": "./SendData/toPunjab.js",
+      "watch": true
+    },
+    {
+      "name": "toBihar",
+      "script": "./SendData/toBihar.js",
+      "watch": true
+    },
+    {
+      "name": "toCpcb",
+      "script": "./SendData/toCpcb.js",
+      "watch": true
+    },
+    {
+      "name": "toDelhi",
+      "script": "./SendData/toDelhi.js",
+      "watch": true
+    },
+    {
+      "name": "toHaryana",
+      "script": "./SendData/toHaryana.js",
+      "watch": true
+    },
+    {
+      "name": "toJharkhand",
+      "script": "./SendData/toJharkhand.js",
+      "watch": true
+    },
+    {
+      "name": "toBiharDemo",
+      "script": "./SendData/toBiharDemo.js",
+      "watch": true
+    },
+    {
+      "name": "toBiharDemo",
+      "script": "./SendData/toBiharDemo.js",
+      "watch": true
+    },
+    {
+      "name": "toMaharashtra",
+      "script": "./SendData/toMaharashtra.js",
+      "watch": true
+    },
+    {
+      "name": "updateIndustrySpcbStatus",
+      "script": "./controller/updateIndustrySpcbStatus.js",
+      "watch": true
+    },
+    {
+      "name": "updateIndustryCpcbStatus",
+      "script": "./controller/updateIndustryCpcbStatus.js",
+      "watch": true
+    }
+  ]
+}
